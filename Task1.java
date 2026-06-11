@@ -1,4 +1,4 @@
-package package1;
+
 
 class th1 extends Thread {
     public void run() {
